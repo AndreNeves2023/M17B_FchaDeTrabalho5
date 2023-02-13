@@ -2,6 +2,11 @@ package psi_11_o.m17b_fichatrabalho5;
     /**
      * @author André Neves, a22922
      */
+
+     /**
+      * 
+      * @version 1.0 13/02/2023
+      */
 public class Ponto2D {
     private int x;
     private int y;
